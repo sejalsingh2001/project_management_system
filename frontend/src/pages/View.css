@@ -1,0 +1,10 @@
+.divi{
+    display: flex;
+    flex-direction: row;
+}
+.input-d{
+    flex: 4;
+}
+.sub{
+    flex: 2;
+}
